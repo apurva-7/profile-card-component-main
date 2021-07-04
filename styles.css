@@ -1,0 +1,17 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(185, 75%, 39%);
+    font-family: 'Kumbh Sans', sans-serif;
+    background-image: url(./images/bg-pattern-top.svg);
+    background-position: top left;
+    background-size: 300px;
+    background-repeat: no-repeat;
+}
+#main-box{
+    /* background: url(./images/bg-pattern-bottom.svg); */
+    /* background-position: bottom left; */
+}
